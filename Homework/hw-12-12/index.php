@@ -12,14 +12,7 @@
 <div class="container">
     <header class="row">
         <div class="col-12">
-<!--            --><?php //if (!isset($_SESSION['registered_user'])): ?>
-<!--                <a href="pages/login.php" class="btn btn-primary">Login</a>-->
-<!--            --><?php //else: ?>
-<!--                <p>Welcome, --><?php //= htmlspecialchars($_SESSION['registered_user']) ?><!--!</p>-->
-<!--                <form action="logout.php" method="post">-->
-<!--                    <button type="submit" name="logout_btn" class="btn btn-danger">Logout</button>-->
-<!--                </form>-->
-<!--            --><?php //endif; ?>
+
         </div>
     </header>
 
